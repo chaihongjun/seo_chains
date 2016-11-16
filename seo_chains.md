@@ -51,6 +51,7 @@
 6. 今日头条     [今日头条](http://mp.toutiao.com/){:target="_blank"}
 7. 凤凰新媒体   [凤凰新媒体](http://zmt.ifeng.com/){:target="_blank"}
 8. 封面号       [封面号](https://cm.thecover.cn/login){:target="_blank"}
+9. 一点号 [一点号](http://mp.yidianzixun.com/){:target="_blank"}
 
 ### 问答平台
 1. 百度知道 [百度知道](http://zhidao.baidu.com){:target="_blank"}
