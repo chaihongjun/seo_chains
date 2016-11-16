@@ -6,3 +6,6 @@ SEO外链资源
 3. 如何判定“百度权重”？进入[站长工具](http://tool.chinaz.com/),然后将网址复制进去，最后点击“SEO综合查询”
 4. 以上资源访问方法:http://chaihongjun.github.io/seo_chains/seo_chains.html
 5. 外链资源将会一直保持更新
+
+####特殊说明
+1. 凤凰号和一点号内容互通 来源：http://mt.sohu.com/20161114/n473167643.shtml
