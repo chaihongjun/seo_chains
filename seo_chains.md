@@ -63,3 +63,10 @@
 7. 红网问答 [红网问答](http://ask.rednet.cn/){:target="_blank"}
 8. 国搜问答 [国搜问答](http://wenda.chinaso.com/){:target="_blank"}
 9. 牛羊问答 [牛羊问答](http://wenda.dynyw.com/){:target="_blank"}
+
+###百科平台
+1. 百度百科 [百度百科](http://baike.baidu.com/){:target="_blank"}
+2. 360百科 [360百科](http://baike.so.com/){:target="_blank"}
+3. 互动百科 [互动百科](http://www.baike.com/){:target="_blank"}
+4. 搜狗百科 [搜狗百科](http://baike.sogou.com/){:target="_blank"}
+5. 简搜百科 [简搜百科](http://baike.jianso.com/){:target="_blank"}
