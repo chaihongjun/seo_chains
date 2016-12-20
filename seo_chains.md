@@ -65,6 +65,7 @@
 8. 国搜问答 [国搜问答](http://wenda.chinaso.com/){:target="_blank"}
 9. 牛羊问答 [牛羊问答](http://wenda.dynyw.com/){:target="_blank"}
 10. 爱问知识人[爱问知识人](http://iask.sina.com.cn/){:target="_blank"}
+11. 天涯问答[天涯问答](http://wenda.tianya.cn/){:target="_blank"}
 
 ###百科平台
 1. 百度百科 [百度百科](http://baike.baidu.com/){:target="_blank"}
